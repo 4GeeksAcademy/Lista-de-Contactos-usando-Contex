@@ -14,7 +14,7 @@ export const ContactCard = props => {
 		<li className="list-group-item">
 			<div className="row w-100">
 				<div className="col-12 col-sm-6 col-md-3 px-0">
-					<img src={"https://picsum.photos/id/342/200/200"} className="rounded-circle mx-auto d-block img-fluid" />
+					<img src={"https://cn.i.cdn.ti-platform.com/content/539/showpage/las-supernenas/es/ppg-200x200.png"} className="rounded-circle mx-auto d-block img-fluid" />
 				</div>
 				<div className="col-12 col-sm-6 col-md-9 text-center text-sm-left">
 					<div className=" d-flex justify-content-end float-right">
